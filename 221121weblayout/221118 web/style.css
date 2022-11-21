@@ -248,7 +248,7 @@ main .contents6 h3::after{
     display: inline-block;
     width: 3vw; height: 2px;
     background-color:#000;
-    position: absolute; top: 8%; left: 50%; transform: translateX(-50%);
+    position: absolute; top: 10%; left: 50%; transform: translateX(-50%);
 }
 
 main .contents6 .service_t1{
