@@ -180,7 +180,7 @@ main .contents4 h3::after{
     display: inline-block;
     width: 3vw; height: 2px;
     background-color:#000;
-    position: absolute; top: 8%; left: 50%; transform: translateX(-50%);
+    position: absolute; top: 6.5%; left: 50%; transform: translateX(-50%);
     }
 main .contents4 p{
         padding: 30px 0;
