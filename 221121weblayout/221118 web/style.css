@@ -243,6 +243,13 @@ main .contents6 {
 main .contents6 h3{
     padding: 30px;
 }
+main .contents6 h3::after{
+    content: "";
+    display: inline-block;
+    width: 3vw; height: 2px;
+    background-color:#000;
+    position: absolute; top: 8%; left: 50%; transform: translateX(-50%);
+}
 
 main .contents6 .service_t1{
     display: flex;
